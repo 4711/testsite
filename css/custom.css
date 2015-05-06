@@ -146,7 +146,7 @@ body {
 /* Bigger than 1000 */
 @media (min-width: 1000px) {
   body {
-    background-color: #222;
+    background-color: #ddd;
   }
   .section {
     padding: 20rem 0 19rem;
