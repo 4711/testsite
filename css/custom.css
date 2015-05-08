@@ -2,8 +2,8 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
   background-color: #FF851B;
-	text-rendering: optimizeLegibility;
-	font: 400 14pt "Latin Modern Mono", "Courier", "Courier New", monospace;
+  text-rendering: optimizeLegibility;
+  font-family: "Latin Modern Mono", "Courier", "Courier New", monospace;
 }
 
 .button {
